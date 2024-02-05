@@ -12,5 +12,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bittaris/morse-code-decoder/issues"
+  },
+  "homepage": "https://github.com/bittaris/morse-code-decoder"
 }
