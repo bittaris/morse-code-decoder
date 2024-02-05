@@ -4,7 +4,7 @@
   "description": "Decodes Morse Code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -12,9 +12,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bittaris/morse-code-decoder/issues"
   },
-  "homepage": "https://github.com/bittaris/morse-code-decoder"
+  "homepage": "https://github.com/bittaris/morse-code-decoder",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
